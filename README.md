@@ -4,7 +4,7 @@ Description:
 -
 According to [the Bank of China](http://www.boc.cn/sourcedb/whpj) foreign exchange rate, shows the RMB price of the new-generation iPhone in the corresponding Apple online store. 
 
-Support regions now: China, Korea, Japan
+Support regions now: China, Korea, Japan.
 
 TODO:
 
